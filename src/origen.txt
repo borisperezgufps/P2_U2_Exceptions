@@ -1,0 +1,3 @@
+1;boris;88000000;boris@correo.com
+2;laura;90000000;laura@correo.com
+3;isabel;15000000;isabela@correo.com
